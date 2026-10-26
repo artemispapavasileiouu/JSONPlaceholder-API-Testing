@@ -55,13 +55,3 @@ All implemented Post-response tests passed during execution in Postman.
 JSONPlaceholder is a mock API for testing and learning purposes. POST and DELETE operations are simulated and do not permanently modify the underlying data.
 
 The reported test results reflect the execution performed during this project and may vary if the API behavior changes.
-
-## Skills Demonstrated
-
-- REST API testing
-- HTTP methods: GET, POST, DELETE
-- HTTP status code validation
-- JSON response validation
-- Automated assertions in JavaScript
-- Query parameter testing
-- API test organization in Postman
